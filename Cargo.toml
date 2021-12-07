@@ -2,7 +2,7 @@
 members = [
 	# "xcm-simulator",
 	# "xcm-simulator/example",
+	#"xcm-emulator/example",
+	#"xcm-emulator/yayoi",
 	"xcm-emulator",
-	"xcm-emulator/example",
-	"xcm-emulator/yayoi",
 ]
